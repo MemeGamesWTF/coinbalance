@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1738927526,
+	"version": 1738928321,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,10 @@
 		"media/voice 4.ogg",
 		"media/voice 6.m4a",
 		"media/voice 6.ogg",
+		"media/boo.m4a",
+		"media/boo.ogg",
+		"media/yayyy.m4a",
+		"media/yayyy.ogg",
 		"media/dead meme's chest - bgm.m4a",
 		"media/dead meme's chest - bgm.ogg",
 		"icon-16.png",
