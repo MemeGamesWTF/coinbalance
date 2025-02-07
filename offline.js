@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1738921761,
+	"version": 1738922663,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,8 +7,9 @@
 		"offlineClient.js",
 		"images/platform-sheet0.png",
 		"images/redgreenlight-sheet0.png",
-		"images/dollhead-sheet0.png",
-		"images/dollhead-sheet1.png",
+		"images/coin-sheet0.png",
+		"images/coin-sheet1.png",
+		"images/coin-sheet2.png",
 		"images/particles.png",
 		"images/oceanlayer-sheet0.png",
 		"images/ship-sheet0.png",
